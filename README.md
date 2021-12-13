@@ -13,8 +13,10 @@
 > \# 빅데이터 분산 도메인 <br>
 > 서울 4반 6팀 🙋이영주, 권영린, 김윤주, 김선혜, 이상현
 
+
+![image](https://user-images.githubusercontent.com/61124319/145806295-ca67ff04-5353-491b-9793-a697573f8f9a.png)
+
 <br>
-![image](https://user-images.githubusercontent.com/61124319/144753796-b36b76d3-e559-4e58-bf2b-c824851abb07.png) <br>
 
 
 <br>
